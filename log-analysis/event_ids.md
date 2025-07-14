@@ -37,5 +37,4 @@ This file contains my notes and use-cases for common security-relevant Windows E
 - **Use Case:** A potential attacker may be trying to cover tracks.
 - **Critical Alert Trigger:** Yes
 
----
 
