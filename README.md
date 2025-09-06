@@ -11,7 +11,7 @@ Welcome to my hands-on cybersecurity portfolio. This repository showcases my ski
 - Daily Blue Team Journal
 
 ## 📁 Repository Structure
-
+/Enterprise-Homelab/ → Proxmox lab build, architecture, and troubleshooting
 /log-analysis/ → Notes on Event IDs, Sysmon, Wazuh logs
 /detection-rules/ → Wazuh & Sigma detection rules
 /attacks/ → Simulated attacks & extracted logs
