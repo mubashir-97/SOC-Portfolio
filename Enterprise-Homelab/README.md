@@ -37,3 +37,7 @@ The lab implements a three-tier network segmentation model:
 ```ini
 vhv.enable = "TRUE"
 hypervisor.cpuid.v0 = "FALSE"
+
+###Verification: After implementing the fix and rebooting, running kvm-ok within Proxmox confirms:###
+INFO: /dev/kvm exists
+KVM acceleration can be used
